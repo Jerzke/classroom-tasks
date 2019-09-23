@@ -1,4 +1,4 @@
-// some comments asdfafsd
+// added new branch 
 process.stdout.write( "\n This program is a computer game. Please, "
                     + "\n type in a number : " ) ;
 
