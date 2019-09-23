@@ -1,4 +1,4 @@
-// added new branch 
+// exercise 5.1
 process.stdout.write( "\n This program is a computer game. Please, "
                     + "\n type in a number : " ) ;
 
