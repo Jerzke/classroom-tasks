@@ -29,7 +29,7 @@ process.stdin.on( "data", function( input_from_user )
 //  Another possibility to output text is to use the console.log() function.
 //  console.log() automatically adds a newline after the given text.
 //  process.stdout.write() does not do that.
-
+//testi 12351
 
 
 
