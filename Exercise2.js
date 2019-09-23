@@ -1,4 +1,4 @@
-// some comments
+// some comments asdfafsd
 process.stdout.write( "\n This program is a computer game. Please, "
                     + "\n type in a number : " ) ;
 
